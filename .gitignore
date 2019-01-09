@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.mvn
+mvnw
+mvnw.cmd
+eureka-server/target/
+service-hi/target/
+service-ribbon/target/
+service-zull/target/
+service_feign/target/
+
